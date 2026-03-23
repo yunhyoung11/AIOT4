@@ -20,7 +20,7 @@ try:
         carLedGreen.value = 1     #자동차 초록불 켜짐 
         humanLedRed.value = 1     #보행자 빨간불 켜짐 
         humanLedGreen.value = 0   #보행자 초록불 꺼짐 
-        sleep(3.0)                #3초동안 유지 위 동작들을 반복 
+        sleep(3.0)                #3초동안 유지    위 동작들을 반복 
         carLedRed.value = 0
         carLedYellow.value = 1
         carLedGreen.value = 0
